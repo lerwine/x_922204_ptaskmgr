@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions table="x_922204_ptaskmgr_personal_task_category">parentISNOTEMPTY^EQ<item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_922204_ptaskmgr_personal_task_category</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Ensure No circular parent ref or cross-user ref</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 17:20:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f58c4f0473a11103f08bce5536d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ensure No circular parent ref or cross-user ref</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_data_policy2_3f58c4f0473a11103f08bce5536d43bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 17:20:27</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</application>
+        <file_path/>
+        <instance_id>9c0a861fdbbc1c144b5c50b6f49619e6</instance_id>
+        <instance_name>dev104625</instance_name>
+        <name>sys_data_policy2_3f58c4f0473a11103f08bce5536d43bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions table="x_922204_ptaskmgr_personal_task_category">parentISNOTEMPTY^EQ<item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></conditions><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_922204_ptaskmgr_personal_task_category</model_table><reverse_if_false>true</reverse_if_false><short_description>Ensure No circular parent ref or cross-user ref</short_description><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-24 17:20:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3f58c4f0473a11103f08bce5536d43bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ensure No circular parent ref or cross-user ref</sys_name><sys_overrides/><sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package><sys_policy/><sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope><sys_update_name>sys_data_policy2_3f58c4f0473a11103f08bce5536d43bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-24 17:20:27</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>-1776858439</payload_hash>
+        <record_name>Ensure No circular parent ref or cross-user ref</record_name>
+        <reverted_from/>
+        <source>be20fba847b611103f08bce5536d4307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 17:20:27</sys_created_on>
+        <sys_id>1ab80cf0473a11103f08bce5536d43b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1840b028d220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 17:20:27</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>12b80cf06f3a1110b4e8090dcf74fdb3</update_guid>
+        <update_guid_history>12b80cf06f3a1110b4e8090dcf74fdb3:-1776858439</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 17:21:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>4b0c16d512ef4d45a86f43f7ded9ff89</sys_id>
+        <sys_metadata>3f58c4f0473a11103f08bce5536d43bc</sys_metadata>
+        <sys_name>Ensure No circular parent ref or cross-user ref</sys_name>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_parent display_value="Personal Task Category">f45640b447f611103f08bce5536d4315</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_scope_delete display_value="">16ec55a540f441f3a5bf8b65fa123779</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_3f58c4f0473a11103f08bce5536d43bc</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_3f58c4f0473a11103f08bce5536d43bc">1ab80cf0473a11103f08bce5536d43b3</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

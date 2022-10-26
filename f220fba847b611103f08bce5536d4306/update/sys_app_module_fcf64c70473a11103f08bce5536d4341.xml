@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Personal Task Manager">a211bba847b611103f08bce5536d4351</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_922204_ptaskmgr_personal_task_category">userDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="user" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Personal Task Categories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_922204_ptaskmgr_personal_task_category</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin,task_editor,itil,x_922204_ptaskmgr.personal_task_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 17:12:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcf64c70473a11103f08bce5536d4341</sys_id>
+        <sys_name>Personal Task Categories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_app_module_fcf64c70473a11103f08bce5536d4341</sys_update_name>
+        <timeline_page/>
+        <title>Personal Task Categories</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

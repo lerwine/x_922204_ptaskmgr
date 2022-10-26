@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_922204_ptaskmgr_personal_task</description>
+        <name>x_922204_ptaskmgr_personal_task</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:37:16</sys_created_on>
+        <sys_id>fe11ff2c47b611103f08bce5536d43bd</sys_id>
+        <sys_name>x_922204_ptaskmgr_personal_task</sys_name>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_security_acl_fe11ff2c47b611103f08bce5536d43bd</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_922204_ptaskmgr_personal_task">x_922204_ptaskmgr_personal_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MPT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:37:16</sys_created_on>
+        <sys_id>3a11ff2c47b611103f08bce5536d43f1</sys_id>
+        <sys_name>MPT</sys_name>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_number_3a11ff2c47b611103f08bce5536d43f1</sys_update_name>
+    </sys_number>
+</record_update>

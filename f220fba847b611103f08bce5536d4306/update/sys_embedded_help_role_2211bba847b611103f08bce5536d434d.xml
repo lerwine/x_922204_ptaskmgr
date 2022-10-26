@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:37:15</sys_created_on>
+        <sys_id>2211bba847b611103f08bce5536d434d</sys_id>
+        <sys_name>6a11bba847b611103f08bce5536d434b</sys_name>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2211bba847b611103f08bce5536d434d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

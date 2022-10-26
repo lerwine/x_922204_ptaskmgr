@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>ae48829147b211103f08bce5536d4369</logo>
+        <menu/>
+        <name>Personal Task Manager</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_922204_ptaskmgr</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Manage personal tasks and time</short_description>
+        <source>x_922204_ptaskmgr</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:33:11</sys_created_on>
+        <sys_id>f220fba847b611103f08bce5536d4306</sys_id>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=f220fba847b611103f08bce5536d4306"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>logo</file_name>
+        <hash>6925aaabf152e812bbd5265b522ffea6b1fd0c344cae46c0bb8d6067a99e6461</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>6166</size_bytes>
+        <size_compressed>2402</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 15:54:45</sys_created_on>
+        <sys_id>ae48829147b211103f08bce5536d4369</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-26 15:54:46</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>f220fba847b611103f08bce5536d4306</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="ae48829147b211103f08bce5536d4369">ae48829147b211103f08bce5536d4369</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 15:54:45</sys_created_on>
+        <sys_id>ee48829147b211103f08bce5536d4369</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3192</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="ae48829147b211103f08bce5536d4369">ae48829147b211103f08bce5536d4369</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 15:54:45</sys_created_on>
+        <sys_id>6248829147b211103f08bce5536d436a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>PersonalTaskManager.svg</file_name>
+        <hash>5104827d97c4fdefdb182e46e2dc379dca5bb6679671c801bebf96268418981b</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3358</size_bytes>
+        <size_compressed>1739</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:33:12</sys_created_on>
+        <sys_id>4b20b7e847b611103f08bce5536d43d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-24 15:33:12</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>f220fba847b611103f08bce5536d4306</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="PersonalTaskManager.svg" sys_id="4b20b7e847b611103f08bce5536d43d2">4b20b7e847b611103f08bce5536d43d2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:33:12</sys_created_on>
+        <sys_id>8b20b7e847b611103f08bce5536d43d2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2308</length>
+        <position>1</position>
+        <sys_attachment display_value="PersonalTaskManager.svg" sys_id="4b20b7e847b611103f08bce5536d43d2">4b20b7e847b611103f08bce5536d43d2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 15:33:12</sys_created_on>
+        <sys_id>0f20b7e847b611103f08bce5536d43d2</sys_id>
+    </sys_attachment_doc>
+</record_update>
