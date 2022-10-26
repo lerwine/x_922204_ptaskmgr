@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Tracking" section_id="f932175947ba11103f08bce5536d430f" sys_domain="global" table="x_922204_ptaskmgr_personal_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>fc925f9547ba11103f08bce5536d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_start</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>70925f9547ba11103f08bce5536d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_duration</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>f0925f9547ba11103f08bce5536d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>74925f9547ba11103f08bce5536d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>follow_up</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>f4925f9547ba11103f08bce5536d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>78925f9547ba11103f08bce5536d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>f4929b5947ba11103f08bce5536d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>78929b5947ba11103f08bce5536d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>f8929b5947ba11103f08bce5536d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:19:19</sys_created_on>
+            <sys_id>7c929b5947ba11103f08bce5536d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 21:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Tracking</caption>
+            <header>false</header>
+            <name>x_922204_ptaskmgr_personal_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 21:17:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f932175947ba11103f08bce5536d430f</sys_id>
+            <sys_name>x_922204_ptaskmgr_personal_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+            <sys_update_name>sys_ui_section_f932175947ba11103f08bce5536d430f</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

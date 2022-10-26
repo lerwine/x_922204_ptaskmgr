@@ -13,7 +13,7 @@
         <license_definition/>
         <license_model>none</license_model>
         <logo>ae48829147b211103f08bce5536d4369</logo>
-        <menu/>
+        <menu display_value="Personal Task Manager">a211bba847b611103f08bce5536d4351</menu>
         <name>Personal Task Manager</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
