@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>On Personal Task Load</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   // Nothing to do - just creating shared function for priority update.
+}
+function calculatePersonalTaskPriority() {
+	g_form.setValue('priority', parseInt(gs_form.getValue('urgency')) + parseInt(gs_form.getValue('impact')) - 1);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 20:57:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>282d744b477e11103f08bce5536d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On Personal Task Load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_script_client_282d744b477e11103f08bce5536d4350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-31 20:57:38</sys_updated_on>
+        <table>x_922204_ptaskmgr_personal_task</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</application>
+        <file_path/>
+        <instance_id>9c0a861fdbbc1c144b5c50b6f49619e6</instance_id>
+        <instance_name>dev104625</instance_name>
+        <name>sys_script_client_282d744b477e11103f08bce5536d4350</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;On Personal Task Load&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   // Nothing to do - just creating shared function for priority update.
+}
+function calculatePersonalTaskPriority() {
+	g_form.setValue('priority', parseInt(gs_form.getValue('urgency')) + parseInt(gs_form.getValue('impact')) - 1);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-31 20:57:38&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;282d744b477e11103f08bce5536d4350&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;On Personal Task Load&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr"&gt;f220fba847b611103f08bce5536d4306&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Personal Task Manager"&gt;f220fba847b611103f08bce5536d4306&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_282d744b477e11103f08bce5536d4350&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-31 20:57:38&lt;/sys_updated_on&gt;&lt;table&gt;x_922204_ptaskmgr_personal_task&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1028782566</payload_hash>
+        <record_name>On Personal Task Load</record_name>
+        <reverted_from/>
+        <source>94b0f84f473e11103f08bce5536d4325</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 20:57:38</sys_created_on>
+        <sys_id>449d744b477e11103f08bce5536d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1842fd5e7f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-31 20:57:38</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>8c9d744b397e11103c8348dc46282162</update_guid>
+        <update_guid_history>8c9d744b397e11103c8348dc46282162:1028782566</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 21:04:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>06a0796c28074b1080e44e16d6717110</sys_id>
+        <sys_metadata>282d744b477e11103f08bce5536d4350</sys_metadata>
+        <sys_name>On Personal Task Load</sys_name>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_parent display_value="Personal Task">5660772c47b611103f08bce5536d43aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_scope_delete display_value="">16ec55a540f441f3a5bf8b65fa123779</sys_scope_delete>
+        <sys_update_name>sys_script_client_282d744b477e11103f08bce5536d4350</sys_update_name>
+        <sys_update_version display_value="sys_script_client_282d744b477e11103f08bce5536d4350">449d744b477e11103f08bce5536d4363</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

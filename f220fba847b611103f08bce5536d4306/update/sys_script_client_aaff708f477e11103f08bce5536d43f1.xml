@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>When Form Loads</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	var urgency = parseInt(g_form.getValue('urgency'));
+	if (isNaN(urgency)) {
+		urgency = 3;
+		g_form.setValue('urgency', urgency);
+	}
+	var impact = parseInt(g_form.getValue('impact'));
+	if (isNaN(impact)) {
+		impact = 3;
+		g_form.setValue('impact', impact);
+	}
+	g_form.setValue('priority', impact + urgency - 1);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 21:10:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aaff708f477e11103f08bce5536d43f1</sys_id>
+        <sys_name>When Form Loads</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Personal Task Manager" source="x_922204_ptaskmgr">f220fba847b611103f08bce5536d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal Task Manager">f220fba847b611103f08bce5536d4306</sys_scope>
+        <sys_update_name>sys_script_client_aaff708f477e11103f08bce5536d43f1</sys_update_name>
+        <table>x_922204_ptaskmgr_personal_task</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

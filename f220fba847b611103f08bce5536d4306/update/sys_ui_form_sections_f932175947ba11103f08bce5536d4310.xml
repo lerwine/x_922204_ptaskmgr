@@ -14,34 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-10-26 21:17:45</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-26 21:17:45</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>7532175947ba11103f08bce5536d43a9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_922204_ptaskmgr_personal_task" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d4310</sys_ui_form>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">3132175947ba11103f08bce5536d430f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-26 21:17:45</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-26 21:17:45</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>0e32175947ba11103f08bce5536d43ac</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_922204_ptaskmgr_personal_task" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d4310</sys_ui_form>
-            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_922204_ptaskmgr_personal_task" sys_domain="global" view="Default view">f932175947ba11103f08bce5536d430f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-26 21:17:45</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_922204_ptaskmgr_personal_task</name>
             <roles/>

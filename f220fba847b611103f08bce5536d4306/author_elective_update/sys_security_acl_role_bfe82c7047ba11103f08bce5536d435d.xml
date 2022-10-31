@@ -42,7 +42,7 @@
         <update_guid_history>7be82c7063ba1110d48f2b1653af395f:702985705</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_922204_ptaskmgr_personal_task.x_922204_ptaskmgr.personal_task_user">0b49e0b047ba11103f08bce5536d4380</sys_audit_delete>
+        <sys_audit_delete display_value="">0b49e0b047ba11103f08bce5536d4380</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-24 19:42:46</sys_created_on>
